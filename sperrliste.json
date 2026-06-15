@@ -1,5 +1,9 @@
 {
   "gesperrt_keys": [],
-  "gesperrt_nutzer": [],
-  "gesperrt_einmal_keys": []
+  "gesperrt_nutzer": [
+    "TestBannKEY"
+  ],
+  "gesperrt_einmal_keys": [
+    "y4ry0bKuCFi_J5YyhJKUQCt2J-SfKfyk7A3sFaXFVGS8dkQYXdNEohtt8t5keQZEjxNo-auJwnVHIoewToMFKXujbkt7w0ykxbvQxL_bur9KCyimXnm89Oey2DZVyT_BY9xDvrNmgqLMIQ2R5SzHgpN-BbiYDY-gDfyL4jofA-fd-mf0l4qgsRESLhO4kP09Mtpu-bKRiEI-Qf6J2g0Tyu7Ramfzoja34uq9RfrBzAgZ4MnjPv9DTtNErF0V1Ax5FAeYNNsaD4sVWQ=="
+  ]
 }
