@@ -1,8 +1,5 @@
 {
   "gesperrt_keys": [],
-  "gesperrt_nutzer": [
-    
-  ],
-  "gesperrt_einmal_keys": [
-    
+  "gesperrt_nutzer": [],
+  "gesperrt_einmal_keys": []
 }
